@@ -10,11 +10,11 @@ and enhance overall business performance.
 
 # Business Objectives
 
-# *Analyze total revenue, profit, and sales trends
-# *Identify high-performing products and regions
-# *Evaluate return rates and their impact on profitability
-# *Understand customer demographics and behavior
-# *Support strategic decision-making using data insights
+ * Analyze total revenue, profit, and sales trends
+ * Identify high-performing products and regions
+ * Evaluate return rates and their impact on profitability
+ * Understand customer demographics and behavior
+ * Support strategic decision-making using data insights
 
 
 # Key Business Challenges
@@ -84,6 +84,7 @@ The project leverages Power BI to:
 * Power BI
 * Data Visualization
 * Business Intelligence
+
 
 
 
