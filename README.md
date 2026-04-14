@@ -87,4 +87,6 @@ The project leverages Power BI to:
 
 
 
+## 🖼 Dashboard Preview
 
+![Dashboard](dashboard-preview.png)
